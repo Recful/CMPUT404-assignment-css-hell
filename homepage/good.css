@@ -1,0 +1,141 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+  height: 100%;
+  margin: 0%;
+}
+
+.nav-bar{
+  background: rgb(219, 218, 218);
+  padding-top: 20px;
+}
+
+.nav-bar a {
+  padding: 16px;
+  font-size: 18px;
+  color: #060606;
+  display: block;
+  text-decoration: none;
+}
+
+.nav-bar a:hover {
+  text-decoration: underline;
+}
+
+.nav-bar ul{
+  list-style: none;
+  text-align: center;
+  padding:0;
+  margin:0;
+}
+
+.nav-bar li{
+  display: inline-block;
+  font-size: 15pt;
+}
+
+section#about_myself{
+  height: 300px;
+  margin-left: 10%;
+  margin-right: 15%;
+}
+
+section#professional_history{
+  height: 630px;
+  margin-left: 10%;
+  margin-right: 15%;
+}
+
+
+section#capabilities{
+  margin-left: 10%;
+  margin-right: 15%;
+}
+
+section{
+  border-bottom-style: solid;
+  border-bottom-color: rgb(0,0,0);
+}
+
+img#me{
+  float:right;
+  width: 230px;
+  height: 280px;
+  margin: 0 0 0 30px;
+}
+
+img#highschool{
+  float:right;
+  width: 70px;
+  height: 70px;
+}
+
+img#university{
+  float:right;
+  width: 150px;
+  height: 70px;
+}
+
+img#netease{
+  float:right;
+  width: 150px;
+  height: 70px;
+}
+
+img#icbc{
+  float:right;
+  width: 150px;
+  height: 70px;
+}
+
+.main{
+  background:rgb(251, 250, 251);
+  display: flex;
+}
+
+.main_content {
+  float: left;
+  width: 75%;
+  margin: 0%;
+}
+
+
+aside.sidebar{
+  position:relative;
+  float: right;
+  width: 25%;
+  background: rgb(219, 218, 218);
+  border-top: hidden;
+  border-radius: 15px;
+}
+
+aside.sidebar h1 {
+  text-align: center;
+}
+
+div.sidebar_block{
+  text-align: center;
+}
+
+
+h1{
+  font-size: 30pt;
+  margin-right:10px;
+  margin-top:10px;
+  font-weight: 600;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 24pt;
+  margin-right:10px;
+  margin-top:10px;
+}
+
+h3{
+  font-size:12pt;
+  margin-right:10px;
+  margin-left:10px;
+}
+
+

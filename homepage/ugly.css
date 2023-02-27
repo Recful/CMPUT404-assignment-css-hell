@@ -1,0 +1,128 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    height: 100%;
+    margin: 0%;
+    color: rgb(251, 251, 252);
+}
+
+.nav-bar{
+    background: rgb(251, 251, 252);
+    padding-top: 20px;
+}
+
+.nav-bar ul{
+    list-style: none;
+    text-align: center;
+    padding:0;
+    margin:0;
+}
+
+.nav-bar li{
+    display: inline-block;
+    font-size: 15pt;
+}
+
+section#about_myself{
+    height: 300px;
+    margin-left: 10%;
+    margin-right: 15%;
+}
+
+section#professional_history{
+    height: 630px;
+    margin-left: 10%;
+    margin-right: 15%;
+}
+
+
+section#capabilities{
+    margin-left: 10%;
+    margin-right: 15%;
+}
+
+img#me{
+    float:right;
+    width: 250px;
+    height: 300px;
+}
+
+img#highschool{
+    float:right;
+    width: 70px;
+    height: 70px;
+}
+
+img#university{
+    float:right;
+    width: 150px;
+    height: 70px;
+}
+
+img#netease{
+    float:right;
+    width: 150px;
+    height: 70px;
+}
+
+img#icbc{
+    float:right;
+    width: 150px;
+    height: 70px;
+}
+
+div.intro{
+    margin-bottom: auto;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: rgb(251, 250, 251);
+}
+
+.main{
+    background-image: url("Asset/background.jpeg");
+    display: flex;
+}
+
+.main_content {
+    float: left;
+    width: 60%;
+    margin: 0%;
+}
+
+
+aside.sidebar{
+    position:relative;
+    float: right;
+    width: 40%;
+    background: rgb(34, 34, 34);
+    border-top: hidden;
+    border-radius: 15px;
+}
+
+aside.sidebar h1 {
+    text-align: center;
+}
+
+div.sidebar_block{
+    text-align: center;
+}
+
+
+h1{
+    font-family: fantasy;
+	font-size: 30pt;
+	margin-right:10px;
+	margin-top:10px;
+    font-weight: 600;
+}
+
+h2{
+    font-family: fantasy;
+    font-weight: 300;
+	font-size: 24pt;
+	margin-right:10px;
+	margin-top:10px;
+}
+
+
