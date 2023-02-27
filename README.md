@@ -9,12 +9,21 @@ Part 1:
     original black and white style.
 6. I changed the link styling so that it will change to a more decent color when people move mouse onto them.
 
+
+Book 1: The Project Gutenberg eBook of The "Free Press": portrait of a monopoly, by George Marion
+https://www.gutenberg.org/cache/epub/70107/pg70107-images.html
+Book 2: The Project Gutenberg eBook of Dubliners, by James Joyce
+https://www.gutenberg.org/cache/epub/2814/pg2814-images.html
+Book 3: The Project Gutenberg eBook of Crime and Punishment, by Fyodor Dostoyevsky
+https://www.gutenberg.org/cache/epub/2554/pg2554-images.html
+
+
 License/Copyright
 =================
 
-Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
+Textual content is copyright Zhouheng He (C) 2023 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
-repository and (C) 2013 Abram Hindle visibile in the text.
+repository and (C) 2023 Zhouheng He visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
